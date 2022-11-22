@@ -1,0 +1,3 @@
+skweak
+datasets==2.5.1
+transformers==4.22.2
